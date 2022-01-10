@@ -16,10 +16,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "hello": "echo 'hello world'",
-    "bye": "echo 'bye bye all'",
-    "new":"npx create-react-app new"
-    
+    "printAll":"dir ",
+    "createDir":"md test",
+    "copyToDir":"copy C:/intro test" 
   },
   "eslintConfig": {
     "extends": [
